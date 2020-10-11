@@ -1,13 +1,13 @@
 Admin:
 username:admin
-password:password123
+password:admin
 
 Users:
-user:ross
-password:password
+user:bakhrom
+password:789
 
-user:racheal
-password:password
+user:baknur
+password:456
 
-user:joey
-password:password
+user:yerke
+password:123
